@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SplashActivity</string>
+    <string-array name="list_static_array">
+        <item>Task1</item>
+        <item>Task2</item>
+        <item>Task3</item>
+
+    </string-array>
+</resources>
